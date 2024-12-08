@@ -7,3 +7,6 @@ Jessica has half of a map implemented on tableau for her section of early implem
 
 ## Abby's Progress
 Abby has a line graph likert scale implemented on tableau for her section of early implementation
+
+## Gavin's Progress
+Gavin has implemented various dropdowns for his section of early implementation
