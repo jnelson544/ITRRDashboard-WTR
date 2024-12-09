@@ -1,0 +1,1 @@
+For this I actually found out tableau has built in functionality for exporting visualizations, I need some more insight how to change out pick what specifically is exported but I plan to work more over break. 
