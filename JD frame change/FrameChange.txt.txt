@@ -1,0 +1,1 @@
+This is a screen recording I took of the tableau implementation of changing a screen. it uses the navigation functionality in tableau so changing each screen is navigating from multiple different dashboards. I started with simply navigating between dashboards of a given county's Life Quality and Community Overcrowding. 
