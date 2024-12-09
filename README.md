@@ -10,3 +10,6 @@ Abby has a line graph likert scale implemented on tableau for her section of ear
 
 ## Gavin's Progress
 Gavin has implemented various dropdowns for his section of early implementation
+
+## JD's Progress
+JD has implemented screen transitions between dashboards and a button for exportation of visualizations for his section of early implementation
